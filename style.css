@@ -1,0 +1,13 @@
+h1 {
+    font-size:100 ;
+    }
+    .header{
+        font-size:150
+    }
+    
+    div {
+        background-color: black;
+        color : blue;
+        hight:300px;
+        width:400;
+    }
